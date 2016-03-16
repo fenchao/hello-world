@@ -1,4 +1,4 @@
 # hello-world
 Sample Repository
-# Interesting
+Interesting
 Open my eyes
